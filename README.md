@@ -1,6 +1,6 @@
 # Fourier Transforms
 
-![Cover Image](/results/fourier_wrap.jpg)
+
 
 ## Overview
 Fourier Transforms are ubiquitous in mathematical areas which require the decomposition of a function into its constituent frequencies. 
@@ -16,9 +16,8 @@ Some of the key features of this work include:
 All images were generated using Python, by using packages like Matplotlib, NumPy and SciPy.
 
 
-## Project Page
 
-More details can be found at the project page - [Fourier Transforms](https://svarshini.github.io/index_project_fourier.html).
+
 
 
 ## Code Usage
@@ -53,42 +52,4 @@ f_list = np.arange(min_freq, max_freq, step_size)
 Here, *f_wave* denotes the frequency of the wave, *signal* denotes the actual signal to be wrapped and *(min_freq, max_freq, step_size)* denote the minimum and maximum frequency values to be used for the animation, with increments of *step_size*. 
 
 
-
-## Animations
-
-### Square Wave
-
-<img src="/results/sq_fourier.gif" width="600" height="450"/>
-
-
-
-### Sawtooth Wave
-
-<img src="/results/sawtooth.gif" width="600" height="450"/>
-
-
-
-### Signal Wrapping
-
-* Input signal = *cos(&theta;)* 
-
-<img src="/results/cosine.gif" width="350" height="350"/>
-
-
-
-* Input signal = *sin(&theta;)* 
-
-<img src="/results/sine.gif" width="350" height="350"/>
-
-
-
-* Input signal = *cos(2&theta;)* + *sin(3&theta;)*
-
-<img src="/results/cos2+sin3.gif" width="350" height="350"/>
-
-
-
-* Input signal = *cos(2&theta;)* + *sin(10&theta;)*
-
-<img src="/results/cos2+sin10.gif" width="350" height="350"/>
 
