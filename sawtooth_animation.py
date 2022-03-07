@@ -35,7 +35,7 @@ for series in range (10, 110, 10):
 
 	plt.plot(t, fourier_y, color='red')
 
-	plt.savefig('Sawtooth/fourier_saw_%d.png'%series)
+	plt.savefig('fourier_saw_%d.png'%series)
 
 	plt.clf()
 
