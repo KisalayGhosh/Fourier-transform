@@ -35,7 +35,7 @@ for f_idx, f in enumerate(f_list):
 	plt.ylim(-2.1,2.1)
 	plt.plot(x, y, color='r')
 	plt.title("Frequency = "+str(round(f_list[f_idx],1))+" Hz", size=15)
-	plt.savefig('Signal_Wrap/signal_wrap_%d.png'%f_idx)
+	plt.savefig('signal_wrap_%d.png'%f_idx)
 	plt.clf()
 
 
