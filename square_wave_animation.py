@@ -40,7 +40,7 @@ for series in range (1, 10, 2):
 
 	#plt.show()
 
-	plt.savefig('SquareWave/fourier_sq_%d.png'%series)
+	plt.savefig('fourier_sq_%d.png'%series)
 
 	plt.clf()
 
