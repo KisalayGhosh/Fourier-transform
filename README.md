@@ -7,6 +7,8 @@ Fourier Transforms are ubiquitous in mathematical areas which require the decomp
 
 This work attempts to capture the beautiful piece of mathematics that governs Fourier Transforms and is inspired by 3Blue1Brown's [video](https://www.youtube.com/watch?v=spUNpyF58BY). As explained in the video, wrapping input signals around a circle allows for varying patterns and when the centre of mass shifts from the origin (centre of the image), we see a pure frequency.
 
+
+
 Some of the key features of this work include:
 
 * Wrapping input signals in a circular fashion to capture the patterns that emerge for varying wrapping frequencies.
@@ -14,6 +16,8 @@ Some of the key features of this work include:
 * Visualization of the square wave and sawtooth wave approximated by their Fourier series.
 
 All images were generated using Python, by using packages like Matplotlib, NumPy and SciPy.
+
+For understanding Fourier transform and its visualization view the following ipynb file in this repo: https://github.com/KisalayGhosh/Fourier-transform/blob/main/Fourier%20explained%20by%20%20Kisalay%20Ghosh.ipynb
 
 
 
