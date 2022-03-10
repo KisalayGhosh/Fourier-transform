@@ -17,7 +17,7 @@ Some of the key features of this work include:
 
 All images were generated using Python, by using packages like Matplotlib, NumPy and SciPy.
 
-For understanding Fourier transform and its visualization view the following ipynb file in this repo: https://github.com/KisalayGhosh/Fourier-transform/blob/main/Fourier%20explained%20by%20%20Kisalay%20Ghosh.ipynb
+For understanding Fourier transform and its visualization view the following ipynb file in my repo: https://github.com/KisalayGhosh/Fourier-transform/blob/main/Fourier%20explained%20by%20%20Kisalay%20Ghosh.ipynb
 
 
 
